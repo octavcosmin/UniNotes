@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "2ba60ca6e7a6b200",
+    "id": "2b0042fba3d709e9",
     "type": "split",
     "children": [
       {
-        "id": "419c02d03d551a35",
+        "id": "c344728bbc7c0ae7",
         "type": "tabs",
         "children": [
           {
-            "id": "41277173242a74f1",
+            "id": "7b01c670853a7db2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ET4011/Course grading.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "32e78969a45b163f",
+    "id": "bcbb8b2552b1e133",
     "type": "split",
     "children": [
       {
-        "id": "a893ded3f7d31e7c",
+        "id": "84a26abc7fca5b0f",
         "type": "tabs",
         "children": [
           {
-            "id": "97620b1fdfec5208",
+            "id": "bc7d836cf4104585",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "62db02a847ffad6d",
+            "id": "7912700b951acef4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "a83ce5ca47731f9d",
+            "id": "09e3964b000106a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "6010effd3947c9af",
+    "id": "a686b4faa61a36ed",
     "type": "split",
     "children": [
       {
-        "id": "d77c18310efd64dd",
+        "id": "972d7cc483e42f3f",
         "type": "tabs",
         "children": [
           {
-            "id": "5ff936446c458a9e",
+            "id": "e037994243a31d8e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ET4011/Course grading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "a89be27019bc8f35",
+            "id": "e920f6d6c5d1f6fd",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ET4011/Course grading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "61917acdbfec821b",
+            "id": "492097c2efd6e51a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,15 +120,17 @@
             }
           },
           {
-            "id": "d83325b8379a1ddb",
+            "id": "38bdfd3b103c87ad",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ET4011/Course grading.md"
+              }
             }
           },
           {
-            "id": "b98c01bc49dc93f6",
+            "id": "3585cab937cbccfa",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -148,11 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41277173242a74f1",
+  "active": "3585cab937cbccfa",
   "lastOpenFiles": [
     "ET4011/Digital Logic Gates.md",
     "ET4011/Course grading.md",
     "ET4011",
-    "Untitled.canvas"
+    "UniNotes/ET4011/Digital Logic Gates.md",
+    "UniNotes/ET4011/Course grading.md",
+    "UniNotes/ET4011",
+    "UniNotes"
   ]
 }

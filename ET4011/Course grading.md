@@ -1,8 +1,8 @@
-|          | Percentage |
-| -------- | ---------- |
-| Lab      | 20         |
-| Mid-term | 20         |
-| Exam     | 60         |
+|   ---    | Percentage |
+|:--------:|:----------:|
+|   Lab    |     20     |
+| Mid-term |     20     |
+|   Exam   |     60     |
 ^grading
 
 ```chart
