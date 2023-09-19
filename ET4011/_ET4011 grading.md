@@ -3,7 +3,7 @@
 |   ---    | Percentage |
 |:--------:|:----------:|
 |   Lab    |     20     |
-| Mid-term |     20     |
+| Midterm |     20     |
 |   Exam   |     60     |
 ^grading
 

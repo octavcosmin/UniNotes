@@ -18,7 +18,28 @@
       "query": "tag:#grading  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#CS4012  ",
+      "color": {
+        "a": 1,
+        "rgb": 14762305
+      }
+    },
+    {
+      "query": "tag:#CS4141  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#CS4221  ",
+      "color": {
+        "a": 1,
+        "rgb": 15661884
       }
     }
   ],
