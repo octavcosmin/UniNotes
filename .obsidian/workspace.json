@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "00ba0eb6fd6d9d89",
+        "id": "4dfc6be99d3c346b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ac9e1eb8be0343d",
+            "id": "cc98829fa3963601",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS4012/2. Introduction to modeling.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS4012/2. Introduction to modeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS4012/2. Introduction to modeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS4012/2. Introduction to modeling.md"
+              }
             }
           },
           {
@@ -130,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -147,18 +155,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3ac9e1eb8be0343d",
+  "active": "cc98829fa3963601",
   "lastOpenFiles": [
-    "ET4011/Digital Logic Gates.md",
-    "CS4012/Models as aids to problem solving.md",
-    "CS4012/_CS4012 grading.md",
+    "CS4012/1. Models as aids to problem solving.md",
+    "CS4012/2. Introduction to modeling.md",
+    "MS4111/Review of sets.md",
+    "MS4111/_MS4111 grading.md",
+    "ET4011/2. Boolean Algebra.md",
+    "ET4011/1. Digital Logic Gates.md",
+    "images/Pasted image 20230921093004.png",
+    "images/Pasted image 20230921092510.png",
+    "images",
+    "images/Pasted image 20230921091755.png",
+    "images/Pasted image 20230921090946.png",
+    "images/Pasted image 20230921090432.png",
+    "images/Pasted image 20230921090416.png",
+    "images/Pasted image 20230921090348.png",
+    "images/Pasted image 20230921090328.png",
+    "ET4011/_ET4011 grading.md",
+    "MS4111",
     "CS4141/Introduction to programming (Java).md",
     "CS4141/_CS4141 grading.md",
+    "CS4012/_CS4012 grading.md",
     "CS4221/_CS4221 grading.md",
-    "ET4011/_ET4011 grading.md",
     "CS4221",
     "CS4012",
-    "Untitled.md",
     "CS4141",
     "Link test.md",
     "ET4011",
