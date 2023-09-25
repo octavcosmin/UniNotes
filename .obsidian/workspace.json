@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md",
+                "file": "ET4011/2. Boolean Algebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md",
+                "file": "ET4011/2. Boolean Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md",
+                "file": "ET4011/2. Boolean Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md"
+                "file": "ET4011/2. Boolean Algebra.md"
               }
             }
           },
@@ -155,29 +155,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc98829fa3963601",
+  "active": "bc7d836cf4104585",
   "lastOpenFiles": [
-    "CS4012/1. Models as aids to problem solving.md",
+    "MS4111/1. Review of sets.md",
+    "CS4141/1. Introduction to programming (Java).md",
+    "CS4221/_CS4221 grading.md",
     "CS4012/2. Introduction to modeling.md",
-    "MS4111/Review of sets.md",
+    "CS4012/1. Models as aids to problem solving.md",
     "MS4111/_MS4111 grading.md",
     "ET4011/2. Boolean Algebra.md",
     "ET4011/1. Digital Logic Gates.md",
-    "images/Pasted image 20230921093004.png",
-    "images/Pasted image 20230921092510.png",
-    "images",
-    "images/Pasted image 20230921091755.png",
-    "images/Pasted image 20230921090946.png",
-    "images/Pasted image 20230921090432.png",
-    "images/Pasted image 20230921090416.png",
-    "images/Pasted image 20230921090348.png",
-    "images/Pasted image 20230921090328.png",
+    "_images/Pasted image 20230921093004.png",
+    "_images/Pasted image 20230921092510.png",
+    "_images",
+    "_images/Pasted image 20230921091755.png",
+    "_images/Pasted image 20230921090946.png",
+    "_images/Pasted image 20230921090432.png",
+    "_images/Pasted image 20230921090416.png",
+    "_images/Pasted image 20230921090348.png",
+    "_images/Pasted image 20230921090328.png",
     "ET4011/_ET4011 grading.md",
     "MS4111",
-    "CS4141/Introduction to programming (Java).md",
     "CS4141/_CS4141 grading.md",
     "CS4012/_CS4012 grading.md",
-    "CS4221/_CS4221 grading.md",
     "CS4221",
     "CS4012",
     "CS4141",
