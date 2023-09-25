@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ET4011/2. Boolean Algebra.md",
+                "file": "CS4141/1. Introduction to programming (Java).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ET4011/2. Boolean Algebra.md",
+                "file": "CS4141/1. Introduction to programming (Java).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ET4011/2. Boolean Algebra.md",
+                "file": "CS4141/1. Introduction to programming (Java).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ET4011/2. Boolean Algebra.md"
+                "file": "CS4141/1. Introduction to programming (Java).md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "cc98829fa3963601",
   "lastOpenFiles": [
-    "ET4011/1. Digital Logic Gates.md",
     "ET4011/2. Boolean Algebra.md",
+    "ET4011/1. Digital Logic Gates.md",
     "ET4011/_ET4011 grading.md",
     "MS4111/1. Review of sets.md",
     "CS4141/1. Introduction to programming (Java).md",
