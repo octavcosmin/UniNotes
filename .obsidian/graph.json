@@ -8,45 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#ET4011 -tag:#grading  ",
-      "color": {
-        "a": 1,
-        "rgb": 5984992
-      }
-    },
-    {
-      "query": "tag:#CS4012  -tag:#grading  ",
-      "color": {
-        "a": 1,
-        "rgb": 14762305
-      }
-    },
-    {
-      "query": "tag:#CS4141  -tag:#grading  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#CS4221   -tag:#grading  ",
-      "color": {
-        "a": 1,
-        "rgb": 15661884
-      }
-    },
-    {
-      "query": "tag:#MS4111  -tag:#grading  ",
-      "color": {
-        "a": 1,
-        "rgb": 12210912
-      }
-    },
-    {
       "query": "tag:#grading  ",
       "color": {
         "a": 1,
         "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:CS4141 -tag:#grading  ",
+      "color": {
+        "a": 1,
+        "rgb": 14568010
+      }
+    },
+    {
+      "query": "path:CS4012 -tag:#grading  ",
+      "color": {
+        "a": 1,
+        "rgb": 5099083
+      }
+    },
+    {
+      "query": "path:CS4221 -tag:#grading  ",
+      "color": {
+        "a": 1,
+        "rgb": 5397472
+      }
+    },
+    {
+      "query": "path:MS4111 -tag:#grading  ",
+      "color": {
+        "a": 1,
+        "rgb": 13948738
+      }
+    },
+    {
+      "query": "path:ET4011 -tag:#grading  ",
+      "color": {
+        "a": 1,
+        "rgb": 13260498
       }
     }
   ],

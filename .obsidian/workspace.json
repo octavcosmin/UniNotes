@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md",
+                "file": "CS4221/1. Expressions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md",
+                "file": "CS4221/1. Expressions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md",
+                "file": "CS4221/1. Expressions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4012/2. Introduction to modeling.md"
+                "file": "CS4221/1. Expressions.md"
               }
             }
           },
@@ -158,30 +158,32 @@
   },
   "active": "bc7d836cf4104585",
   "lastOpenFiles": [
-    "CS4012/diagrams/diagram0001.svg",
+    "ET4011/ET4011 grading.md",
+    "MS4111/MS4111 grading.md",
+    "MS4111/1. Review of sets.md",
+    "ET4011/1. Digital Logic Gates.md",
+    "ET4011/2. Boolean Algebra.md",
+    "CS4221/CS4221 grading.md",
+    "CS4221/1. Expressions.md",
+    "CS4012/CS4012 grading.md",
+    "CS4141/CS4141 grading.md",
     "CS4012/2. Introduction to modeling.md",
+    "CS4012/1. Models as aids to problem solving.md",
+    "CS4141/1. Introduction to programming (Java).md",
+    "CS4221/diagrams/diagram0002.svg",
+    "CS4221/diagrams",
+    "CS4221/diagrams/diagram0001.svg",
+    "CS4012/diagrams/diagram0001.svg",
     "CS4012/diagrams",
     "CS4012/Untitled Diagram 1.svg",
     "src/Pasted image 20230926111305.png",
     "src/Pasted image 20230926110659.png",
-    "CS4141/1. Introduction to programming (Java).md",
-    "ET4011/2. Boolean Algebra.md",
-    "ET4011/1. Digital Logic Gates.md",
-    "ET4011/_ET4011 grading.md",
-    "MS4111/1. Review of sets.md",
-    "CS4221/_CS4221 grading.md",
-    "CS4012/1. Models as aids to problem solving.md",
-    "MS4111/_MS4111 grading.md",
     "src/Pasted image 20230921093004.png",
     "src/Pasted image 20230921092510.png",
     "src",
     "src/Pasted image 20230921091755.png",
     "src/Pasted image 20230921090946.png",
-    "src/Pasted image 20230921090432.png",
-    "src/Pasted image 20230921090416.png",
     "MS4111",
-    "CS4141/_CS4141 grading.md",
-    "CS4012/_CS4012 grading.md",
     "CS4221",
     "CS4012",
     "CS4141",
