@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfc6be99d3c346b",
+        "id": "6e2212488ade47df",
         "type": "tabs",
         "children": [
           {
-            "id": "cc98829fa3963601",
+            "id": "947a42671e97539c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -158,9 +158,10 @@
   },
   "active": "bc7d836cf4104585",
   "lastOpenFiles": [
-    "CS4012/Untitled Diagram.svg",
-    "CS4012/Untitled Diagram 1.svg",
+    "CS4012/diagrams/diagram0001.svg",
     "CS4012/2. Introduction to modeling.md",
+    "CS4012/diagrams",
+    "CS4012/Untitled Diagram 1.svg",
     "src/Pasted image 20230926111305.png",
     "src/Pasted image 20230926110659.png",
     "CS4141/1. Introduction to programming (Java).md",
