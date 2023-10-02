@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS4111/2. Propositional logic.md",
+                "file": "ET4011/4. Circuit Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MS4111/2. Propositional logic.md",
+                "file": "ET4011/4. Circuit Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MS4111/2. Propositional logic.md",
+                "file": "ET4011/4. Circuit Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MS4111/2. Propositional logic.md"
+                "file": "ET4011/4. Circuit Analysis.md"
               }
             }
           },
@@ -158,11 +158,12 @@
   },
   "active": "808b55c199c85781",
   "lastOpenFiles": [
+    "ET4011/2. Boolean Algebra.md",
+    "ET4011/4. Circuit Analysis.md",
+    "MS4111/1. Review of sets.md",
     "MS4111/2. Propositional logic.md",
     "CS4012/2. Introduction to modeling.md",
     "CS4221/1. Expressions.md",
-    "ET4011/2. Boolean Algebra.md",
-    "MS4111/1. Review of sets.md",
     "CS4221/diagrams/diagram0003.svg",
     "ET4011/3. Number Systems.md",
     "ET4011/diagrams/diagram0001.svg",
