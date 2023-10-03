@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ET4011/4. Circuit Analysis.md",
+                "file": "CS4221/3. Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ET4011/4. Circuit Analysis.md",
+                "file": "CS4221/3. Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ET4011/4. Circuit Analysis.md",
+                "file": "CS4221/3. Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ET4011/4. Circuit Analysis.md"
+                "file": "CS4221/3. Design.md"
               }
             }
           },
@@ -158,12 +158,20 @@
   },
   "active": "808b55c199c85781",
   "lastOpenFiles": [
-    "ET4011/2. Boolean Algebra.md",
+    "CS4221/2..md",
+    "CS4221/3. Design.md",
+    "CS4221/1. Expressions.md",
+    "CS4221/diagrams/diagram004.svg",
+    "CS4221/2. Fractals.md",
+    "CS4012/3. Planning the Solution.md",
+    "CS4012/diagrams/diagram002.svg",
+    "CS4012/2. Introduction to modeling.md",
+    "CS4141/2. Computers and State.md",
+    "CS4141/1. Introduction to programming (Java).md",
     "ET4011/4. Circuit Analysis.md",
+    "ET4011/2. Boolean Algebra.md",
     "MS4111/1. Review of sets.md",
     "MS4111/2. Propositional logic.md",
-    "CS4012/2. Introduction to modeling.md",
-    "CS4221/1. Expressions.md",
     "CS4221/diagrams/diagram0003.svg",
     "ET4011/3. Number Systems.md",
     "ET4011/diagrams/diagram0001.svg",
@@ -175,7 +183,6 @@
     "CS4012/CS4012 grading.md",
     "CS4141/CS4141 grading.md",
     "CS4012/1. Models as aids to problem solving.md",
-    "CS4141/1. Introduction to programming (Java).md",
     "CS4221/diagrams/diagram0002.svg",
     "CS4221/diagrams",
     "CS4221/diagrams/diagram0001.svg",
@@ -184,8 +191,6 @@
     "CS4012/Untitled Diagram 1.svg",
     "src/Pasted image 20230926111305.png",
     "src/Pasted image 20230926110659.png",
-    "src/Pasted image 20230921093004.png",
-    "src/Pasted image 20230921092510.png",
     "src",
     "MS4111",
     "CS4221",
