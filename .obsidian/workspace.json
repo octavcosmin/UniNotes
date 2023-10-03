@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "57ae9d4156a159df",
+        "id": "88e51df448edff97",
         "type": "tabs",
         "children": [
           {
-            "id": "808b55c199c85781",
+            "id": "f1c77700f6fcd1ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4221/3. Design.md",
+                "file": "ET4011/3. Number Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4221/3. Design.md",
+                "file": "ET4011/3. Number Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4221/3. Design.md",
+                "file": "ET4011/3. Number Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4221/3. Design.md"
+                "file": "ET4011/3. Number Systems.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "808b55c199c85781",
+  "active": "f1c77700f6fcd1ea",
   "lastOpenFiles": [
-    "CS4221/2..md",
     "CS4221/3. Design.md",
+    "CS4221/2..md",
     "CS4221/1. Expressions.md",
     "CS4221/diagrams/diagram004.svg",
     "CS4221/2. Fractals.md",
