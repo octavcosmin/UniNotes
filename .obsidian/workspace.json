@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4e04349f29ba34",
+        "id": "10eb5b1daf9ba17a",
         "type": "tabs",
         "children": [
           {
-            "id": "41820a1ed744d70b",
+            "id": "5332576d9ef25510",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ET4011/5. Combinational and Sequential Logic.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ET4011/5. Combinational and Sequential Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ET4011/5. Combinational and Sequential Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ET4011/5. Combinational and Sequential Logic.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41820a1ed744d70b",
+  "active": "bc7d836cf4104585",
   "lastOpenFiles": [
+    "MS4111/3. Predicates.md",
+    "MS4111/MS4111 grading.md",
+    "MS4111/2. Propositional logic.md",
     "ET4011/5. Combinational and Sequential Logic.md",
     "ET4011/diagrams/diagram0001.svg",
     "ET4011/3. Number Systems.md",
@@ -177,7 +172,6 @@
     "CS4012/1. Models as Aids to Problem Solving.md",
     "CS4012/2. Introduction to Modeling.md",
     "ET4011/2. Boolean Algebra.md",
-    "MS4111/2. Propositional logic.md",
     "CS4012/diagrams/diagram0003.svg",
     "CS4221/1. Expressions.md",
     "CS4221/diagrams/diagram0004.svg",
@@ -187,7 +181,6 @@
     "MS4111/1. Review of sets.md",
     "CS4221/diagrams/diagram0003.svg",
     "ET4011/diagrams",
-    "MS4111/MS4111 grading.md",
     "ET4011/1. Digital Logic Gates.md",
     "CS4012/CS4012 grading.md",
     "CS4141/CS4141 grading.md",
