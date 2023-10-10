@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88e51df448edff97",
+        "id": "7d4e04349f29ba34",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c77700f6fcd1ea",
+            "id": "41820a1ed744d70b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ET4011/3. Number Systems.md",
+                "file": "ET4011/5. Combinational and Sequential Logic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ET4011/3. Number Systems.md",
+                "file": "ET4011/5. Combinational and Sequential Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ET4011/3. Number Systems.md",
+                "file": "ET4011/5. Combinational and Sequential Logic.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ET4011/3. Number Systems.md"
+                "file": "ET4011/5. Combinational and Sequential Logic.md"
               }
             }
           },
@@ -156,41 +156,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1c77700f6fcd1ea",
+  "active": "41820a1ed744d70b",
   "lastOpenFiles": [
-    "CS4221/3. Design.md",
-    "CS4221/2..md",
-    "CS4221/1. Expressions.md",
-    "CS4221/diagrams/diagram004.svg",
-    "CS4221/2. Fractals.md",
-    "CS4012/3. Planning the Solution.md",
-    "CS4012/diagrams/diagram002.svg",
-    "CS4012/2. Introduction to modeling.md",
-    "CS4141/2. Computers and State.md",
-    "CS4141/1. Introduction to programming (Java).md",
-    "ET4011/4. Circuit Analysis.md",
-    "ET4011/2. Boolean Algebra.md",
-    "MS4111/1. Review of sets.md",
-    "MS4111/2. Propositional logic.md",
-    "CS4221/diagrams/diagram0003.svg",
-    "ET4011/3. Number Systems.md",
+    "ET4011/5. Combinational and Sequential Logic.md",
     "ET4011/diagrams/diagram0001.svg",
-    "ET4011/diagrams",
+    "ET4011/3. Number Systems.md",
+    "ET4011/4. Circuit Analysis.md",
     "ET4011/ET4011 grading.md",
+    "CS4221/4. Lambda Calculus.md",
+    "CS4221/2..md",
+    "CS4221/3. Design.md",
+    "CS4221/diagrams/diagram0007.svg",
+    "CS4221/diagrams/diagram0006.svg",
+    "CS4221/diagrams/diagram0005.svg",
+    "CS4221/CS4221 grading.md",
+    "CS4012/5. Programming Structures.md",
+    "CS4012/3. Planning the Solution.md",
+    "CS4141/3. Conditional Statement.md",
+    "CS4141/2. Computers and State.md",
+    "CS4012/1. Models as Aids to Problem Solving.md",
+    "CS4012/2. Introduction to Modeling.md",
+    "ET4011/2. Boolean Algebra.md",
+    "MS4111/2. Propositional logic.md",
+    "CS4012/diagrams/diagram0003.svg",
+    "CS4221/1. Expressions.md",
+    "CS4221/diagrams/diagram0004.svg",
+    "CS4221/2. Fractals.md",
+    "CS4012/diagrams/diagram0002.svg",
+    "CS4141/1. Introduction to programming (Java).md",
+    "MS4111/1. Review of sets.md",
+    "CS4221/diagrams/diagram0003.svg",
+    "ET4011/diagrams",
     "MS4111/MS4111 grading.md",
     "ET4011/1. Digital Logic Gates.md",
-    "CS4221/CS4221 grading.md",
     "CS4012/CS4012 grading.md",
     "CS4141/CS4141 grading.md",
-    "CS4012/1. Models as aids to problem solving.md",
     "CS4221/diagrams/diagram0002.svg",
     "CS4221/diagrams",
     "CS4221/diagrams/diagram0001.svg",
-    "CS4012/diagrams/diagram0001.svg",
     "CS4012/diagrams",
-    "CS4012/Untitled Diagram 1.svg",
-    "src/Pasted image 20230926111305.png",
-    "src/Pasted image 20230926110659.png",
     "src",
     "MS4111",
     "CS4221",
@@ -198,8 +202,6 @@
     "CS4141",
     "Link test.md",
     "ET4011",
-    "UniNotes/ET4011/Digital Logic Gates.md",
-    "UniNotes/ET4011/Course grading.md",
     "UniNotes/ET4011"
   ]
 }

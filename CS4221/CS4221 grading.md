@@ -25,3 +25,6 @@ Midterm in week 7
 `[CS4221]` in email subject
 
 E1-006 Print room, reference number 6997, €4
+
+# Brightspace Quiz 3:00 - 3:25 on Tuesday!!
+# Midterm 3:00 CSG001

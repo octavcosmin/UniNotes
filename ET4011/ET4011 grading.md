@@ -14,3 +14,5 @@ width: 60%
 labelColors: true
 legendPosition: right
 ```
+
+# Midterm 9am Monday 23rd
