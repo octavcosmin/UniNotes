@@ -11,8 +11,12 @@
             "id": "5332576d9ef25510",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MS4111/4. Relations of Sets.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MS4111/4. Relations of Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MS4111/4. Relations of Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MS4111/4. Relations of Sets.md"
+              }
             }
           },
           {
@@ -148,11 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc7d836cf4104585",
+  "active": "5332576d9ef25510",
   "lastOpenFiles": [
-    "MS4111/3. Predicates.md",
+    "MS4111/3. Predicate Logic.md",
+    "MS4111/4. Relations of Sets.md",
+    "MS4111/1. Review of Sets.md",
+    "MS4111/2. Propositional Logic.md",
     "MS4111/MS4111 grading.md",
-    "MS4111/2. Propositional logic.md",
     "ET4011/5. Combinational and Sequential Logic.md",
     "ET4011/diagrams/diagram0001.svg",
     "ET4011/3. Number Systems.md",
@@ -178,7 +188,6 @@
     "CS4221/2. Fractals.md",
     "CS4012/diagrams/diagram0002.svg",
     "CS4141/1. Introduction to programming (Java).md",
-    "MS4111/1. Review of sets.md",
     "CS4221/diagrams/diagram0003.svg",
     "ET4011/diagrams",
     "ET4011/1. Digital Logic Gates.md",
@@ -193,7 +202,6 @@
     "CS4221",
     "CS4012",
     "CS4141",
-    "Link test.md",
     "ET4011",
     "UniNotes/ET4011"
   ]
