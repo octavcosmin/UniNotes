@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS4111/4. Relations of Sets.md",
+                "file": "ET4011/3. Number Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MS4111/4. Relations of Sets.md",
+                "file": "ET4011/3. Number Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MS4111/4. Relations of Sets.md",
+                "file": "ET4011/3. Number Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MS4111/4. Relations of Sets.md"
+                "file": "ET4011/3. Number Systems.md"
               }
             }
           },
@@ -158,12 +158,16 @@
   },
   "active": "5332576d9ef25510",
   "lastOpenFiles": [
-    "MS4111/3. Predicate Logic.md",
+    "ET4011/5. Combinational and Sequential Logic.md",
+    "ET4011/diagrams/diagram0002.svg",
+    "CS4012/3. Planning the Solution.md",
     "MS4111/4. Relations of Sets.md",
+    "CS4012/5. Programming Structures.md",
+    "MS4111/Untitled.md",
+    "MS4111/3. Predicate Logic.md",
     "MS4111/1. Review of Sets.md",
     "MS4111/2. Propositional Logic.md",
     "MS4111/MS4111 grading.md",
-    "ET4011/5. Combinational and Sequential Logic.md",
     "ET4011/diagrams/diagram0001.svg",
     "ET4011/3. Number Systems.md",
     "ET4011/4. Circuit Analysis.md",
@@ -175,8 +179,6 @@
     "CS4221/diagrams/diagram0006.svg",
     "CS4221/diagrams/diagram0005.svg",
     "CS4221/CS4221 grading.md",
-    "CS4012/5. Programming Structures.md",
-    "CS4012/3. Planning the Solution.md",
     "CS4141/3. Conditional Statement.md",
     "CS4141/2. Computers and State.md",
     "CS4012/1. Models as Aids to Problem Solving.md",
@@ -191,11 +193,8 @@
     "CS4221/diagrams/diagram0003.svg",
     "ET4011/diagrams",
     "ET4011/1. Digital Logic Gates.md",
-    "CS4012/CS4012 grading.md",
-    "CS4141/CS4141 grading.md",
     "CS4221/diagrams/diagram0002.svg",
     "CS4221/diagrams",
-    "CS4221/diagrams/diagram0001.svg",
     "CS4012/diagrams",
     "src",
     "MS4111",
