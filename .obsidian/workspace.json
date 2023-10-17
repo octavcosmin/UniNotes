@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10eb5b1daf9ba17a",
+        "id": "31df2b635a236783",
         "type": "tabs",
         "children": [
           {
-            "id": "5332576d9ef25510",
+            "id": "370b8f4cde3c42c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ET4011/3. Number Systems.md",
+                "file": "CS4221/4. Lambda Calculus.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ET4011/3. Number Systems.md",
+                "file": "CS4221/4. Lambda Calculus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ET4011/3. Number Systems.md",
+                "file": "CS4221/4. Lambda Calculus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ET4011/3. Number Systems.md"
+                "file": "CS4221/4. Lambda Calculus.md"
               }
             }
           },
@@ -156,9 +156,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5332576d9ef25510",
+  "active": "370b8f4cde3c42c2",
   "lastOpenFiles": [
     "ET4011/5. Combinational and Sequential Logic.md",
+    "MS4111/MS4111 grading.md",
+    "ET4011/ET4011 grading.md",
+    "CS4012/CS4012 grading.md",
+    "CS4141/CS4141 grading.md",
+    "CS4221/CS4221 grading.md",
+    "ET4011/3. Number Systems.md",
     "ET4011/diagrams/diagram0002.svg",
     "CS4012/3. Planning the Solution.md",
     "MS4111/4. Relations of Sets.md",
@@ -167,18 +173,14 @@
     "MS4111/3. Predicate Logic.md",
     "MS4111/1. Review of Sets.md",
     "MS4111/2. Propositional Logic.md",
-    "MS4111/MS4111 grading.md",
     "ET4011/diagrams/diagram0001.svg",
-    "ET4011/3. Number Systems.md",
     "ET4011/4. Circuit Analysis.md",
-    "ET4011/ET4011 grading.md",
     "CS4221/4. Lambda Calculus.md",
     "CS4221/2..md",
     "CS4221/3. Design.md",
     "CS4221/diagrams/diagram0007.svg",
     "CS4221/diagrams/diagram0006.svg",
     "CS4221/diagrams/diagram0005.svg",
-    "CS4221/CS4221 grading.md",
     "CS4141/3. Conditional Statement.md",
     "CS4141/2. Computers and State.md",
     "CS4012/1. Models as Aids to Problem Solving.md",
@@ -192,7 +194,6 @@
     "CS4141/1. Introduction to programming (Java).md",
     "CS4221/diagrams/diagram0003.svg",
     "ET4011/diagrams",
-    "ET4011/1. Digital Logic Gates.md",
     "CS4221/diagrams/diagram0002.svg",
     "CS4221/diagrams",
     "CS4012/diagrams",
