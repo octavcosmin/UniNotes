@@ -17,3 +17,5 @@ legendPosition: right
 ```
 
 For questions, email subject `[CS4141] Question`
+
+## Mid-term week 8

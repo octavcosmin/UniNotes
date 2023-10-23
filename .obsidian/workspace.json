@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4221/3. Design.md",
+                "file": "CS4141/5.1. Strings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4221/3. Design.md",
+                "file": "CS4141/5.1. Strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4221/3. Design.md",
+                "file": "CS4141/5.1. Strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4221/3. Design.md"
+                "file": "CS4141/5.1. Strings.md"
               }
             }
           },
@@ -158,9 +158,12 @@
   },
   "active": "370b8f4cde3c42c2",
   "lastOpenFiles": [
+    "CS4141/5.2. While.md",
+    "CS4141/5.1. Strings.md",
+    "CS4141/CS4141 grading.md",
+    "CS4221/3. Design.md",
     "CS4221/2. Infix to Prefix.md",
     "CS4221/1. Expressions.md",
-    "CS4221/3. Design.md",
     "CS4221/4. Lambda Calculus.md",
     "CS4221/CS4221 grading.md",
     "ET4011/1. Digital Logic Gates.md",
@@ -172,7 +175,6 @@
     "MS4111/MS4111 grading.md",
     "ET4011/ET4011 grading.md",
     "CS4012/CS4012 grading.md",
-    "CS4141/CS4141 grading.md",
     "ET4011/3. Number Systems.md",
     "ET4011/diagrams/diagram0002.svg",
     "CS4012/5. Programming Structures.md",
@@ -187,10 +189,8 @@
     "CS4141/2. Computers and State.md",
     "CS4012/1. Models as Aids to Problem Solving.md",
     "CS4012/2. Introduction to Modeling.md",
-    "ET4011/2. Boolean Algebra.md",
     "CS4012/diagrams/diagram0003.svg",
     "CS4221/diagrams/diagram0004.svg",
-    "CS4221/2. Fractals.md",
     "CS4012/diagrams/diagram0002.svg",
     "CS4221/diagrams/diagram0003.svg",
     "ET4011/diagrams",
