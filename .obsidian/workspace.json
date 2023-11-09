@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "31df2b635a236783",
+        "id": "d5b09f07a48af975",
         "type": "tabs",
         "children": [
           {
-            "id": "370b8f4cde3c42c2",
+            "id": "c53a0c5c40da158b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS4141/5.3 For.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4141/5.3 For.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4141/5.3 For.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4141/5.3 For.md"
+                "file": "CS4012/5. Programming Structures.md"
               }
             }
           },
@@ -156,10 +150,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "370b8f4cde3c42c2",
+  "active": "bc7d836cf4104585",
   "lastOpenFiles": [
-    "CS4141/5.2. While.md",
+    "MS4111/3. Predicate Logic.md",
+    "MS4111/2. Propositional Logic.md",
+    "MS4111/1. Review of Sets.md",
     "CS4141/5.3 For.md",
+    "CS4141/5.2. While.md",
     "ET4011/6. Von Neumann Computer.md",
     "MS4111/7. Recurrence relations.md",
     "MS4111/6. Sets of numbers.md",
@@ -181,9 +178,6 @@
     "CS4141/CS4141 grading.md",
     "CS4221/3. Design.md",
     "CS4221/2. Infix to Prefix.md",
-    "CS4221/1. Expressions.md",
-    "CS4221/CS4221 grading.md",
-    "MS4111/1. Review of Sets.md",
     "ET4011/diagrams/diagram0002.svg",
     "ET4011/diagrams/diagram0001.svg",
     "CS4221/diagrams/diagram0007.svg",
