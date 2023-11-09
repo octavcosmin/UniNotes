@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MS4111/7. Recurrence relations.md",
+                "file": "ET4011/TUT1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MS4111/7. Recurrence relations.md",
+                "file": "ET4011/TUT1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MS4111/7. Recurrence relations.md",
+                "file": "ET4011/TUT1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MS4111/7. Recurrence relations.md"
+                "file": "ET4011/TUT1.md"
               }
             }
           },
@@ -158,6 +158,8 @@
   },
   "active": "c53a0c5c40da158b",
   "lastOpenFiles": [
+    "MS4111/7. Recurrence relations.md",
+    "ET4011/TUT1.md",
     "CS4012/5. Programming Structures.md",
     "MS4111/3. Predicate Logic.md",
     "MS4111/2. Propositional Logic.md",
@@ -165,7 +167,6 @@
     "CS4141/5.3 For.md",
     "CS4141/5.2. While.md",
     "ET4011/6. Von Neumann Computer.md",
-    "MS4111/7. Recurrence relations.md",
     "MS4111/6. Sets of numbers.md",
     "MS4111/5. Functions.md",
     "ET4011/5. Combinational and Sequential Logic.md",
@@ -183,7 +184,6 @@
     "CS4141/5.1. Strings.md",
     "CS4141/CS4141 grading.md",
     "CS4221/3. Design.md",
-    "CS4221/2. Infix to Prefix.md",
     "ET4011/diagrams/diagram0002.svg",
     "ET4011/diagrams/diagram0001.svg",
     "CS4221/diagrams/diagram0007.svg",
