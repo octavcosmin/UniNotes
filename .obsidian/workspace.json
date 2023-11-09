@@ -11,8 +11,12 @@
             "id": "c53a0c5c40da158b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MS4111/7. Recurrence relations.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MS4111/7. Recurrence relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MS4111/7. Recurrence relations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4012/5. Programming Structures.md"
+                "file": "MS4111/7. Recurrence relations.md"
               }
             }
           },
@@ -150,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc7d836cf4104585",
+  "active": "c53a0c5c40da158b",
   "lastOpenFiles": [
+    "CS4012/5. Programming Structures.md",
     "MS4111/3. Predicate Logic.md",
     "MS4111/2. Propositional Logic.md",
     "MS4111/1. Review of Sets.md",
@@ -168,7 +175,6 @@
     "MS4111/4. Relations of Sets.md",
     "CS4012/3. Planning the Solution.md",
     "CS4012/2. Introduction to Modeling.md",
-    "CS4012/5. Programming Structures.md",
     "ET4011/3. Number Systems.md",
     "ET4011/2. Boolean Algebra.md",
     "ET4011/1. Digital Logic Gates.md",
