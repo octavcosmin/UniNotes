@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ET4011/TUT1.md",
+                "file": "CS4141/7. Objects.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ET4011/TUT1.md",
+                "file": "CS4141/7. Objects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ET4011/TUT1.md",
+                "file": "CS4141/7. Objects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ET4011/TUT1.md"
+                "file": "CS4141/7. Objects.md"
               }
             }
           },
@@ -158,15 +158,18 @@
   },
   "active": "c53a0c5c40da158b",
   "lastOpenFiles": [
+    "ET4011/6. Von Neumann Computer.md",
+    "CS4141/7. Objects.md",
     "MS4111/7. Recurrence relations.md",
+    "MS4111/Untitled.md",
+    "CS4141/5.3 For.md",
+    "ET4011/7. CPU organization.md",
     "ET4011/TUT1.md",
     "CS4012/5. Programming Structures.md",
     "MS4111/3. Predicate Logic.md",
     "MS4111/2. Propositional Logic.md",
     "MS4111/1. Review of Sets.md",
-    "CS4141/5.3 For.md",
     "CS4141/5.2. While.md",
-    "ET4011/6. Von Neumann Computer.md",
     "MS4111/6. Sets of numbers.md",
     "MS4111/5. Functions.md",
     "ET4011/5. Combinational and Sequential Logic.md",
@@ -181,9 +184,6 @@
     "ET4011/1. Digital Logic Gates.md",
     "ET4011/4. Circuit Analysis.md",
     "ET4011/ET4011 grading.md",
-    "CS4141/5.1. Strings.md",
-    "CS4141/CS4141 grading.md",
-    "CS4221/3. Design.md",
     "ET4011/diagrams/diagram0002.svg",
     "ET4011/diagrams/diagram0001.svg",
     "CS4221/diagrams/diagram0007.svg",
