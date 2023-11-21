@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4141/7. Objects.md",
+                "file": "CS4012/9. Exercises.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4141/7. Objects.md",
+                "file": "CS4012/9. Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4141/7. Objects.md",
+                "file": "CS4012/9. Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4141/7. Objects.md"
+                "file": "CS4012/9. Exercises.md"
               }
             }
           },
@@ -158,8 +158,10 @@
   },
   "active": "c53a0c5c40da158b",
   "lastOpenFiles": [
-    "ET4011/6. Von Neumann Computer.md",
+    "CS4141/CS4141 grading.md",
+    "CS4012/9. Exercises.md",
     "CS4141/7. Objects.md",
+    "ET4011/6. Von Neumann Computer.md",
     "MS4111/7. Recurrence relations.md",
     "MS4111/Untitled.md",
     "CS4141/5.3 For.md",
@@ -182,8 +184,6 @@
     "ET4011/3. Number Systems.md",
     "ET4011/2. Boolean Algebra.md",
     "ET4011/1. Digital Logic Gates.md",
-    "ET4011/4. Circuit Analysis.md",
-    "ET4011/ET4011 grading.md",
     "ET4011/diagrams/diagram0002.svg",
     "ET4011/diagrams/diagram0001.svg",
     "CS4221/diagrams/diagram0007.svg",
