@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4012/9. Exercises.md",
+                "file": "CS4221/5. Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4012/9. Exercises.md",
+                "file": "CS4221/5. Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4012/9. Exercises.md",
+                "file": "CS4221/5. Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4012/9. Exercises.md"
+                "file": "CS4221/5. Recursion.md"
               }
             }
           },
@@ -158,13 +158,18 @@
   },
   "active": "c53a0c5c40da158b",
   "lastOpenFiles": [
-    "CS4141/CS4141 grading.md",
-    "CS4012/9. Exercises.md",
-    "CS4141/7. Objects.md",
-    "ET4011/6. Von Neumann Computer.md",
     "MS4111/7. Recurrence relations.md",
-    "MS4111/Untitled.md",
+    "CS4221/5. Recursion.md",
+    "CS4221/4. Lambda Calculus.md",
+    "CS4141/2. Computers and State.md",
+    "CS4141/3. Conditional Statement.md",
+    "CS4141/5.1. Strings.md",
+    "CS4141/7. Objects.md",
     "CS4141/5.3 For.md",
+    "CS4012/9. Exercises.md",
+    "CS4141/CS4141 grading.md",
+    "ET4011/6. Von Neumann Computer.md",
+    "MS4111/Untitled.md",
     "ET4011/7. CPU organization.md",
     "ET4011/TUT1.md",
     "CS4012/5. Programming Structures.md",
@@ -176,14 +181,9 @@
     "MS4111/5. Functions.md",
     "ET4011/5. Combinational and Sequential Logic.md",
     "ET4011/6..md",
-    "CS4221/4. Lambda Calculus.md",
     "CS4012/CS4012 grading.md",
     "MS4111/4. Relations of Sets.md",
     "CS4012/3. Planning the Solution.md",
-    "CS4012/2. Introduction to Modeling.md",
-    "ET4011/3. Number Systems.md",
-    "ET4011/2. Boolean Algebra.md",
-    "ET4011/1. Digital Logic Gates.md",
     "ET4011/diagrams/diagram0002.svg",
     "ET4011/diagrams/diagram0001.svg",
     "CS4221/diagrams/diagram0007.svg",
