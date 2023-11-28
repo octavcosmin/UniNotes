@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ET4011/7. ARMv8 Instructions.md",
+                "file": "CS4221/6. Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ET4011/7. ARMv8 Instructions.md",
+                "file": "CS4221/6. Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ET4011/7. ARMv8 Instructions.md",
+                "file": "CS4221/6. Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ET4011/7. ARMv8 Instructions.md"
+                "file": "CS4221/6. Project.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "c53a0c5c40da158b",
   "lastOpenFiles": [
-    "ET4011/6. Von Neumann Computer.md",
     "ET4011/7. ARMv8 Instructions.md",
+    "CS4221/6. Project.md",
+    "ET4011/6. Von Neumann Computer.md",
     "MS4111/8. Introductory Combinatorics.md",
     "MS4111/7. Recurrence relations.md",
     "MS4111/4. Relations of Sets.md",
@@ -183,7 +184,6 @@
     "MS4111/5. Functions.md",
     "ET4011/5. Combinational and Sequential Logic.md",
     "ET4011/6..md",
-    "CS4012/CS4012 grading.md",
     "ET4011/diagrams/diagram0002.svg",
     "ET4011/diagrams/diagram0001.svg",
     "CS4221/diagrams/diagram0007.svg",
