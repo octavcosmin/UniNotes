@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/CS4182/CS4182 grading.md",
+                "file": "Sem 2/CS4182/1. Values Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/CS4182/CS4182 grading.md",
+                "file": "Sem 2/CS4182/1. Values Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/CS4182/CS4182 grading.md",
+                "file": "Sem 2/CS4182/1. Values Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/CS4182/CS4182 grading.md"
+                "file": "Sem 2/CS4182/1. Values Types.md"
               }
             }
           },
@@ -156,10 +156,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc7d836cf4104585",
+  "active": "fa3c3dc351f31955",
   "lastOpenFiles": [
-    "Sem 1/CS4012/CS4012 grading.md",
     "Sem 2/CS4182/CS4182 grading.md",
+    "Sem 1/CS4141/3. Conditional Statement.md",
+    "Sem 1/CS4141/2. Computers and State.md",
+    "Sem 1/CS4141/1. Introduction to programming (Java).md",
+    "Sem 2/CS4182/1. Values Types.md",
+    "Sem 1/CS4012/CS4012 grading.md",
     "Sem 1/MS4111/5. Functions.md",
     "Sem 1",
     "Sem 2/CS4182",
@@ -180,14 +184,10 @@
     "Sem 1/MS4111/1. Review of Sets.md",
     "Sem 1/CS4141/5.1. Strings.md",
     "Sem 1/CS4221/CS4221 grading.md",
-    "Sem 1/CS4141/2. Computers and State.md",
-    "Sem 1/CS4141/3. Conditional Statement.md",
     "Sem 1/CS4141/7. Objects.md",
     "Sem 1/CS4141/5.3 For.md",
     "Sem 1/CS4012/9. Exercises.md",
     "Sem 1/CS4141/CS4141 grading.md",
-    "ET4011/7. CPU organization.md",
-    "Sem 1/ET4011/TUT1.md",
     "Sem 1/ET4011/diagrams/diagram0002.svg",
     "Sem 1/ET4011/diagrams/diagram0001.svg",
     "Sem 1/CS4221/diagrams/diagram0007.svg",
