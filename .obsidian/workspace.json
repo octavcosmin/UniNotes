@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d5b09f07a48af975",
+        "id": "dd76344426b1842f",
         "type": "tabs",
         "children": [
           {
-            "id": "c53a0c5c40da158b",
+            "id": "fa3c3dc351f31955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS4221/6. Project.md",
+                "file": "Sem 2/CS4182/CS4182 grading.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS4221/6. Project.md",
+                "file": "Sem 2/CS4182/CS4182 grading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS4221/6. Project.md",
+                "file": "Sem 2/CS4182/CS4182 grading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS4221/6. Project.md"
+                "file": "Sem 2/CS4182/CS4182 grading.md"
               }
             }
           },
@@ -156,53 +156,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c53a0c5c40da158b",
+  "active": "bc7d836cf4104585",
   "lastOpenFiles": [
-    "CS4221/CS4221 grading.md",
-    "CS4221/6. Project.md",
-    "ET4011/7. ARMv8 Instructions.md",
-    "ET4011/6. Von Neumann Computer.md",
-    "MS4111/8. Introductory Combinatorics.md",
-    "MS4111/7. Recurrence relations.md",
-    "MS4111/4. Relations of Sets.md",
-    "CS4221/5. Recursion.md",
-    "CS4221/4. Lambda Calculus.md",
-    "CS4141/2. Computers and State.md",
-    "CS4141/3. Conditional Statement.md",
-    "CS4141/5.1. Strings.md",
-    "CS4141/7. Objects.md",
-    "CS4141/5.3 For.md",
-    "CS4012/9. Exercises.md",
-    "CS4141/CS4141 grading.md",
+    "Sem 1/CS4012/CS4012 grading.md",
+    "Sem 2/CS4182/CS4182 grading.md",
+    "Sem 1/MS4111/5. Functions.md",
+    "Sem 1",
+    "Sem 2/CS4182",
+    "Sem 2",
+    "CS4182",
+    "Sem 1/MS4111/8. Introductory Combinatorics.md",
+    "Sem 1/MS4111/7. Recurrence relations.md",
+    "Sem 1/MS4111/6. Sets of numbers.md",
+    "Sem 1/MS4111/4. Relations of Sets.md",
+    "Sem 1/ET4011/7. ARMv8 Instructions.md",
+    "Sem 1/ET4011/6. Von Neumann Computer.md",
+    "Sem 1/CS4221/6. Project.md",
+    "Sem 1/CS4221/5. Recursion.md",
+    "Sem 1/CS4221/4. Lambda Calculus.md",
+    "Sem 1/CS4221/3. Design.md",
+    "Sem 1/CS4221/2. Infix to Prefix.md",
+    "Sem 1/ET4011/2. Boolean Algebra.md",
+    "Sem 1/MS4111/1. Review of Sets.md",
+    "Sem 1/CS4141/5.1. Strings.md",
+    "Sem 1/CS4221/CS4221 grading.md",
+    "Sem 1/CS4141/2. Computers and State.md",
+    "Sem 1/CS4141/3. Conditional Statement.md",
+    "Sem 1/CS4141/7. Objects.md",
+    "Sem 1/CS4141/5.3 For.md",
+    "Sem 1/CS4012/9. Exercises.md",
+    "Sem 1/CS4141/CS4141 grading.md",
     "ET4011/7. CPU organization.md",
-    "ET4011/TUT1.md",
-    "CS4012/5. Programming Structures.md",
-    "MS4111/3. Predicate Logic.md",
-    "MS4111/2. Propositional Logic.md",
-    "MS4111/1. Review of Sets.md",
-    "CS4141/5.2. While.md",
-    "MS4111/6. Sets of numbers.md",
-    "MS4111/5. Functions.md",
-    "ET4011/5. Combinational and Sequential Logic.md",
-    "ET4011/diagrams/diagram0002.svg",
-    "ET4011/diagrams/diagram0001.svg",
-    "CS4221/diagrams/diagram0007.svg",
-    "CS4221/diagrams/diagram0006.svg",
-    "CS4221/diagrams/diagram0005.svg",
-    "CS4012/diagrams/diagram0003.svg",
-    "CS4221/diagrams/diagram0004.svg",
-    "CS4012/diagrams/diagram0002.svg",
-    "CS4221/diagrams/diagram0003.svg",
-    "ET4011/diagrams",
-    "CS4221/diagrams/diagram0002.svg",
-    "CS4221/diagrams",
-    "CS4012/diagrams",
+    "Sem 1/ET4011/TUT1.md",
+    "Sem 1/ET4011/diagrams/diagram0002.svg",
+    "Sem 1/ET4011/diagrams/diagram0001.svg",
+    "Sem 1/CS4221/diagrams/diagram0007.svg",
+    "Sem 1/CS4221/diagrams/diagram0006.svg",
+    "Sem 1/CS4221/diagrams/diagram0005.svg",
+    "Sem 1/CS4012/diagrams/diagram0003.svg",
+    "Sem 1/CS4221/diagrams/diagram0004.svg",
+    "Sem 1/CS4012/diagrams/diagram0002.svg",
+    "Sem 1/CS4221/diagrams/diagram0003.svg",
+    "Sem 1/ET4011/diagrams",
+    "Sem 1/CS4221/diagrams/diagram0002.svg",
+    "Sem 1/CS4221/diagrams",
+    "Sem 1/CS4012/diagrams",
     "src",
-    "MS4111",
-    "CS4221",
-    "CS4012",
-    "CS4141",
-    "ET4011",
-    "UniNotes/ET4011"
+    "Sem 1/MS4111",
+    "Sem 1/CS4221"
   ]
 }
