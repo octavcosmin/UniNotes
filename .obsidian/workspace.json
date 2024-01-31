@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd76344426b1842f",
+        "id": "31e7e17e4970ed80",
         "type": "tabs",
         "children": [
           {
-            "id": "bda8ba5cff683c0a",
+            "id": "8ec28de47fae5393",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,16 +156,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bda8ba5cff683c0a",
+  "active": "8ec28de47fae5393",
   "lastOpenFiles": [
-    "Sem 2/ET4162/ET4162 Grading.md",
-    "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
-    "Sem 2/CS4182/CS4182 grading.md",
-    "Sem 2/ET4162",
-    "Sem 1/CS4141/3. Conditional Statement.md",
+    "Sem 2/CS4222/1..md",
+    "Sem 2/CS4222/CS4222 Grading.md",
+    "Sem 2/CS4182/1. Values Types.md",
     "Sem 1/CS4141/2. Computers and State.md",
     "Sem 1/CS4141/1. Introduction to programming (Java).md",
-    "Sem 2/CS4182/1. Values Types.md",
+    "Sem 2/MA4402/MA4402 Grading.md",
+    "Sem 2/MA4402/1. Graph Theory.md",
+    "Sem 2/CS4222",
+    "Sem 2/CS4182/CS4182 grading.md",
+    "Sem 2/ET4162/ET4162 Grading.md",
+    "Sem 1/MS4111/MS4111 grading.md",
+    "Sem 1/MS4111/4. Relations of Sets.md",
+    "Sem 1/MS4111/2. Propositional Logic.md",
+    "Sem 1/MS4111/1. Review of Sets.md",
+    "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
+    "Sem 2/MA4402",
+    "Sem 2/ET4162",
+    "Sem 1/CS4141/3. Conditional Statement.md",
     "Sem 1/CS4012/CS4012 grading.md",
     "Sem 1/MS4111/5. Functions.md",
     "Sem 1",
@@ -175,20 +185,12 @@
     "Sem 1/MS4111/8. Introductory Combinatorics.md",
     "Sem 1/MS4111/7. Recurrence relations.md",
     "Sem 1/MS4111/6. Sets of numbers.md",
-    "Sem 1/MS4111/4. Relations of Sets.md",
     "Sem 1/ET4011/7. ARMv8 Instructions.md",
     "Sem 1/ET4011/6. Von Neumann Computer.md",
     "Sem 1/CS4221/6. Project.md",
     "Sem 1/CS4221/5. Recursion.md",
     "Sem 1/CS4221/4. Lambda Calculus.md",
     "Sem 1/CS4221/3. Design.md",
-    "Sem 1/CS4221/2. Infix to Prefix.md",
-    "Sem 1/ET4011/2. Boolean Algebra.md",
-    "Sem 1/MS4111/1. Review of Sets.md",
-    "Sem 1/CS4141/5.1. Strings.md",
-    "Sem 1/CS4221/CS4221 grading.md",
-    "Sem 1/CS4141/7. Objects.md",
-    "Sem 1/CS4141/5.3 For.md",
     "Sem 1/ET4011/diagrams/diagram0002.svg",
     "Sem 1/ET4011/diagrams/diagram0001.svg",
     "Sem 1/CS4221/diagrams/diagram0007.svg",
@@ -201,8 +203,6 @@
     "Sem 1/ET4011/diagrams",
     "Sem 1/CS4221/diagrams/diagram0002.svg",
     "Sem 1/CS4221/diagrams",
-    "Sem 1/CS4012/diagrams",
-    "src",
-    "Sem 1/MS4111"
+    "Sem 1/CS4012/diagrams"
   ]
 }
