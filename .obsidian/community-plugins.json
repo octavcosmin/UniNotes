@@ -4,5 +4,7 @@
   "obsidian-git",
   "drawio-obsidian",
   "cmdr",
-  "table-extended"
+  "table-extended",
+  "obsidian-regex-replace",
+  "obsidian-graphviz"
 ]
