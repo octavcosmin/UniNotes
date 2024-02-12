@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c8589a095efdcbb",
+        "id": "204133f79dae1147",
         "type": "tabs",
         "children": [
           {
-            "id": "93875d4e567a5cec",
+            "id": "58ce58e4fe18e769",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/MA4402/1. Graph Theory.md",
+                "file": "Sem 2/CS4182/1. Values Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/MA4402/1. Graph Theory.md",
+                "file": "Sem 2/CS4182/1. Values Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/MA4402/1. Graph Theory.md",
+                "file": "Sem 2/CS4182/1. Values Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/MA4402/1. Graph Theory.md"
+                "file": "Sem 2/CS4182/1. Values Types.md"
               }
             }
           },
@@ -156,21 +156,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "38bdfd3b103c87ad",
+  "active": "58ce58e4fe18e769",
   "lastOpenFiles": [
-    "Sem 2/MA4402/1. Graph Theory.md",
+    "Sem 2/CS4182/2. Relations.md",
     "Sem 2/CS4182/1. Values Types.md",
-    "Sem 2/CS4182/CS4182 grading.md",
+    "Sem 2/MA4402/MA4402 Grading.md",
+    "Sem 2/CS4222/1. Data Structures.md",
     "Sem 2/CS4043/CS4043 Grading.md",
+    "Sem 2/CS4182/CS4182 grading.md",
+    "Sem 2/CS4222/CS4222 Grading.md",
+    "Sem 2/ET4162/ET4162 Grading.md",
+    "Sem 2/CS4182/TUT1.md",
+    "Sem 2/MA4402/1. Graph Theory.md",
     "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
     "Sem 2/CS4043",
-    "Sem 2/CS4222/1..md",
-    "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 1/CS4141/2. Computers and State.md",
     "Sem 1/CS4141/1. Introduction to programming (Java).md",
-    "Sem 2/MA4402/MA4402 Grading.md",
     "Sem 2/CS4222",
-    "Sem 2/ET4162/ET4162 Grading.md",
     "Sem 1/MS4111/MS4111 grading.md",
     "Sem 1/MS4111/4. Relations of Sets.md",
     "Sem 1/MS4111/2. Propositional Logic.md",
@@ -190,8 +192,6 @@
     "Sem 1/ET4011/7. ARMv8 Instructions.md",
     "Sem 1/ET4011/6. Von Neumann Computer.md",
     "Sem 1/CS4221/6. Project.md",
-    "Sem 1/CS4221/5. Recursion.md",
-    "Sem 1/CS4221/4. Lambda Calculus.md",
     "Sem 1/ET4011/diagrams/diagram0002.svg",
     "Sem 1/ET4011/diagrams/diagram0001.svg",
     "Sem 1/CS4221/diagrams/diagram0007.svg",
