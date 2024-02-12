@@ -8,8 +8,35 @@
   "rightRibbon": [],
   "titleBar": [],
   "statusBar": [],
-  "pageHeader": [],
-  "macros": [],
+  "pageHeader": [
+    {
+      "id": "cmdr:macro-0",
+      "icon": "upload-cloud",
+      "name": "Commander: Upload to Github",
+      "mode": "any"
+    }
+  ],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-git:commit"
+        },
+        {
+          "action": 1,
+          "delay": "2000"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-git:push2"
+        }
+      ],
+      "name": "Upload to Github",
+      "icon": "upload-cloud",
+      "startup": false
+    }
+  ],
   "explorer": [],
   "hide": {
     "statusbar": [],
