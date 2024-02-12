@@ -13,7 +13,8 @@
       "id": "cmdr:macro-0",
       "icon": "upload-cloud",
       "name": "Commander: Upload to Github",
-      "mode": "any"
+      "mode": "70cc05566164ffd2",
+      "color": "#7559d9"
     }
   ],
   "macros": [
@@ -25,7 +26,7 @@
         },
         {
           "action": 1,
-          "delay": "2000"
+          "delay": "3000"
         },
         {
           "action": 0,
