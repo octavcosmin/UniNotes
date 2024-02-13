@@ -36,6 +36,17 @@
       "name": "Upload to Github",
       "icon": "upload-cloud",
       "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-git:fetch"
+        }
+      ],
+      "name": "Auto Fetch Repo",
+      "icon": "star",
+      "startup": true
     }
   ],
   "explorer": [],
