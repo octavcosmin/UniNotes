@@ -136,9 +136,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2aa593aa8bbcc67e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,8 +166,8 @@
   },
   "active": "35b825541a5dc2e4",
   "lastOpenFiles": [
-    "Sem 2/MA4402/2. Matrices.md",
     "Sem 2/MA4402/3. Vectors.md",
+    "Sem 2/MA4402/2. Matrices.md",
     "Sem 2/CS4222/1. Data Structures.md",
     "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
     "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
