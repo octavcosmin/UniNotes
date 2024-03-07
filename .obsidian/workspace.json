@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/MA4402/3. Vectors.md",
+                "file": "Sem 2/CS4182/HW 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/MA4402/3. Vectors.md",
+                "file": "Sem 2/CS4182/HW 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/MA4402/3. Vectors.md",
+                "file": "Sem 2/CS4182/HW 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/MA4402/3. Vectors.md"
+                "file": "Sem 2/CS4182/HW 5.md"
               }
             }
           },
@@ -166,6 +166,10 @@
   },
   "active": "35b825541a5dc2e4",
   "lastOpenFiles": [
+    "Sem 2/CS4182/CS4182 grading.md",
+    "Sem 2/CS4182/HW 5.md",
+    "Sem 2/MA4402/MA4402 Grading.md",
+    "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 2/MA4402/3. Vectors.md",
     "Sem 2/MA4402/2. Matrices.md",
     "Sem 2/CS4222/1. Data Structures.md",
@@ -174,14 +178,11 @@
     "Sem 2/ET4162/2. Application, Transport and Network Layers.md",
     "Sem 2/CS4043/CS4043 Grading.md",
     "Sem 2/MA4402/1. Graph Theory.md",
-    "Sem 2/CS4182/CS4182 grading.md",
     "Sem 2/CS4182/3. Storing Variables.md",
     "Sem 1/CS4141/2. Computers and State.md",
     "Sem 2/CS4182/1. Values Types.md",
     "Sem 2/CS4182/2. Relations.md",
     "Sem 2/CS4182/TUT1.md",
-    "Sem 2/MA4402/MA4402 Grading.md",
-    "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 2/ET4162/ET4162 Grading.md",
     "Sem 2/CS4043",
     "Sem 1/CS4141/1. Introduction to programming (Java).md",
@@ -199,7 +200,6 @@
     "Sem 2/CS4182",
     "Sem 2",
     "CS4182",
-    "Sem 1/MS4111/8. Introductory Combinatorics.md",
     "Sem 1/ET4011/diagrams/diagram0002.svg",
     "Sem 1/ET4011/diagrams/diagram0001.svg",
     "Sem 1/CS4221/diagrams/diagram0007.svg",
