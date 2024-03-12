@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/MA4402/MA4402 Grading.md",
+                "file": "Sem 2/MA4402/4. Sequences and Series.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/MA4402/MA4402 Grading.md",
+                "file": "Sem 2/MA4402/4. Sequences and Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/MA4402/MA4402 Grading.md",
+                "file": "Sem 2/MA4402/4. Sequences and Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/MA4402/MA4402 Grading.md"
+                "file": "Sem 2/MA4402/4. Sequences and Series.md"
               }
             }
           },
@@ -166,10 +166,11 @@
   },
   "active": "35b825541a5dc2e4",
   "lastOpenFiles": [
-    "Sem 2/CS4182/HW 5.md",
-    "Sem 2/MA4402/3. Vectors.md",
-    "Sem 2/CS4182/CS4182 grading.md",
     "Sem 2/MA4402/MA4402 Grading.md",
+    "Sem 2/MA4402/4. Sequences and Series.md",
+    "Sem 2/MA4402/3. Vectors.md",
+    "Sem 2/CS4182/HW 5.md",
+    "Sem 2/CS4182/CS4182 grading.md",
     "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 2/MA4402/2. Matrices.md",
     "Sem 2/CS4222/1. Data Structures.md",
@@ -195,7 +196,6 @@
     "Sem 2/ET4162",
     "Sem 1/CS4141/3. Conditional Statement.md",
     "Sem 1/CS4012/CS4012 grading.md",
-    "Sem 1/MS4111/5. Functions.md",
     "Sem 1",
     "Sem 2/CS4182",
     "Sem 2",
