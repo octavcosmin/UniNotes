@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/MA4402/4. Sequences and Series.md",
+                "file": "Sem 2/ET4162/4. CPU Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/MA4402/4. Sequences and Series.md",
+                "file": "Sem 2/ET4162/4. CPU Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/MA4402/4. Sequences and Series.md",
+                "file": "Sem 2/ET4162/4. CPU Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/MA4402/4. Sequences and Series.md"
+                "file": "Sem 2/ET4162/4. CPU Design.md"
               }
             }
           },
@@ -166,15 +166,16 @@
   },
   "active": "35b825541a5dc2e4",
   "lastOpenFiles": [
-    "Sem 2/MA4402/MA4402 Grading.md",
+    "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
+    "Sem 2/ET4162/4. CPU Design.md",
     "Sem 2/MA4402/4. Sequences and Series.md",
+    "Sem 2/MA4402/MA4402 Grading.md",
     "Sem 2/MA4402/3. Vectors.md",
     "Sem 2/CS4182/HW 5.md",
     "Sem 2/CS4182/CS4182 grading.md",
     "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 2/MA4402/2. Matrices.md",
     "Sem 2/CS4222/1. Data Structures.md",
-    "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
     "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
     "Sem 2/ET4162/2. Application, Transport and Network Layers.md",
     "Sem 2/CS4043/CS4043 Grading.md",
@@ -195,7 +196,6 @@
     "Sem 2/MA4402",
     "Sem 2/ET4162",
     "Sem 1/CS4141/3. Conditional Statement.md",
-    "Sem 1/CS4012/CS4012 grading.md",
     "Sem 1",
     "Sem 2/CS4182",
     "Sem 2",
