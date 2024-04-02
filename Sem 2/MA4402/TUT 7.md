@@ -10,3 +10,4 @@ d. $$\begin{split}
 \lim_{n\to\infty} {10^{10^{10}}n - n^2 \over n^2} & = \lim_{n\to\infty} {{10^{10^{10}}n \over n^2} - {n^2 \over n^2}\over {n^2 \over n^2}} \\
 & = \lim_{n\to\infty} {}
 \end{split}$$
+
