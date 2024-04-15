@@ -26,3 +26,19 @@ $$\begin{gather*}
 True & and & False & \rightarrow impossible
 \end{gather*}$$
 so the HT is correct.
+
+---
+
+```java
+i = 0;
+total = 0;
+while(i < n) {
+	i = i + 1;
+	total = total + i;
+}
+```
+$\{total = \sum_{j=0}^n j\}$
+
+P and B C Q
+
+
