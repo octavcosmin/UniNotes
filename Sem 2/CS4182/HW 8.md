@@ -13,8 +13,8 @@ sum = \sum_{j=1}^i j! \land i \leq n \\
 \{S\} i = i + 1 \{sum = \sum_{j=1}^i j! \land i \leq n\} \text{ (2)} \\
 \end{gather*}
 $$
-(2) $$\begin{split}
-Q^V_E:\ &(sum = \sum_{j = 1}^i j! \land i \leq n)_{i+1}^i \\
+$$\begin{split}
+\text{(2) }Q^V_E:\ &(sum = \sum_{j = 1}^i j! \land i \leq n)_{i+1}^i \\
 &(sum = \sum_{j = 1}^i+1 \land i + 1 \leq n)
 \end{split}$$
 We replace $R$ and $S$ with $Q^V_E$, then using the assignment rule: $$\begin{split}
