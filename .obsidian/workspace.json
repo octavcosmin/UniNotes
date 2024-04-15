@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,10 +167,10 @@
   },
   "active": "34cac31cedc53212",
   "lastOpenFiles": [
+    "Sem 2/CS4182/HW5.md",
+    "Sem 2/CS4182/HW8.md",
     "Sem 2/CS4182/TUT10.md",
     "Untitled Diagram.svg",
-    "Sem 2/CS4182/HW 8.md",
-    "Sem 2/CS4182/HW 5.md",
     "Sem 2/MA4402/4. Sequences and Series.md",
     "Sem 2/CS4182/3. Storing Variables.md",
     "Sem 2/CS4182/CS4182 grading.md",
