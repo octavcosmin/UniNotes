@@ -2,9 +2,10 @@
   "table-editor-obsidian",
   "obsidian-charts",
   "obsidian-git",
-  "drawio-obsidian",
   "cmdr",
   "table-extended",
   "obsidian-regex-replace",
-  "obsidian-graphviz"
+  "obsidian-graphviz",
+  "drawio-obsidian",
+  "obsidian-diagrams-net"
 ]
