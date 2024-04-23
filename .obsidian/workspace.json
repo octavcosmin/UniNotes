@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/ET4162/4. CPU Design.md",
+                "file": "Sem 2/MA4402/Exam practice.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/ET4162/4. CPU Design.md",
+                "file": "Sem 2/MA4402/Exam practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/ET4162/4. CPU Design.md",
+                "file": "Sem 2/MA4402/Exam practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/ET4162/4. CPU Design.md"
+                "file": "Sem 2/MA4402/Exam practice.md"
               }
             }
           },
@@ -167,13 +167,17 @@
   },
   "active": "5ef48e3b136d3b2b",
   "lastOpenFiles": [
-    "Sem 2/ET4162/diagrams/diagram001.svg",
+    "Sem 2/MA4402/Exam info.md",
+    "Sem 2/MA4402/Exam practice.md",
+    "Sem 2/MA4402/MA4402 Grading.md",
+    "Sem 2/MA4402/4. Sequences and Series.md",
+    "Sem 2/CS4182/TUT9.md",
+    "Sem 2/CS4182/HW9.md",
     "Sem 2/ET4162/4. CPU Design.md",
+    "Sem 2/ET4162/diagrams/diagram001.svg",
     "Sem 2/ET4162/Untitled Diagram.svg",
     "Sem 2/ET4162/diagrams",
     "Sem 2/MA4402/TUT9.md",
-    "Sem 2/MA4402/4. Sequences and Series.md",
-    "Sem 2/CS4182/HW9.md",
     "Sem 2/CS4182/HW8.md",
     "Sem 2/CS4182/TUT10.md",
     "Sem 2/CS4182/HW5.md",
@@ -181,11 +185,9 @@
     "Sem 2/CS4182/CS4182 grading.md",
     "Sem 2/ET4162/ET4162 Grading.md",
     "Sem 2/CS4222/CS4222 Grading.md",
-    "Sem 2/CS4182/TUT9.md",
     "Sem 2/MA4402/TUT 7.md",
     "Sem 2/MA4402/2. Matrices.md",
     "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
-    "Sem 2/MA4402/MA4402 Grading.md",
     "Sem 2/MA4402/3. Vectors.md",
     "Sem 2/CS4222/1. Data Structures.md",
     "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
@@ -194,7 +196,6 @@
     "Sem 2/MA4402/1. Graph Theory.md",
     "Sem 1/CS4141/2. Computers and State.md",
     "Sem 2/CS4182/1. Values Types.md",
-    "Sem 2/CS4182/2. Relations.md",
     "Sem 2/CS4043",
     "Sem 2/CS4222",
     "Sem 2/MA4402",
