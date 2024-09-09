@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "06d0bf41e657bfd9",
+        "id": "5f7de7d79e3e1b03",
         "type": "tabs",
         "children": [
           {
-            "id": "5ef48e3b136d3b2b",
+            "id": "dfb8bbb4667df545",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
+                "file": "Sem 3/CE4703/CE4703 Grading.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
+                "file": "Sem 3/CE4703/CE4703 Grading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
+                "file": "Sem 3/CE4703/CE4703 Grading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 2/ET4162/1. Introduction to Networking and the Internet.md"
+                "file": "Sem 3/CE4703/CE4703 Grading.md"
               }
             }
           },
@@ -165,18 +165,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ef48e3b136d3b2b",
+  "active": "dfb8bbb4667df545",
   "lastOpenFiles": [
+    "Sem 2/CS4043/CS4043 Grading.md",
+    "Sem 3/CE4703/CE4703 Grading.md",
+    "Untitled.md",
+    "Sem 3/CE4703",
+    "Sem 3",
+    "Sem 2/ET4162/ET4162 Grading.md",
+    "Sem 2/CS4222/Hackathon Prep.md",
+    "Sem 2/CS4222/CS4222 Grading.md",
+    "Sem 2/ET4162/4. CPU Design.md",
+    "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
+    "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
     "Sem 2/MA4402/1. Graph Theory.md",
     "Sem 2/CS4182/HW10.md",
     "Sem 2/CS4182/HW9.md",
-    "Sem 2/CS4222/Hackathon Prep.md",
     "Sem 2/MA4402/Exam practice.md",
     "Sem 2/MA4402/Exam info.md",
     "Sem 2/MA4402/MA4402 Grading.md",
     "Sem 2/MA4402/4. Sequences and Series.md",
     "Sem 2/CS4182/TUT9.md",
-    "Sem 2/ET4162/4. CPU Design.md",
     "Sem 2/ET4162/diagrams/diagram001.svg",
     "Sem 2/ET4162/Untitled Diagram.svg",
     "Sem 2/ET4162/diagrams",
@@ -186,16 +195,9 @@
     "Sem 2/CS4182/HW5.md",
     "Sem 2/CS4182/3. Storing Variables.md",
     "Sem 2/CS4182/CS4182 grading.md",
-    "Sem 2/ET4162/ET4162 Grading.md",
-    "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 2/MA4402/TUT 7.md",
     "Sem 2/MA4402/2. Matrices.md",
-    "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
     "Sem 2/MA4402/3. Vectors.md",
-    "Sem 2/CS4222/1. Data Structures.md",
-    "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
-    "Sem 2/ET4162/2. Application, Transport and Network Layers.md",
-    "Sem 2/CS4043/CS4043 Grading.md",
     "Sem 2/CS4043",
     "Sem 2/CS4222",
     "Sem 2/MA4402",
@@ -203,7 +205,6 @@
     "Sem 1",
     "Sem 2/CS4182",
     "Sem 2",
-    "CS4182",
     "Sem 1/ET4011/diagrams/diagram0002.svg",
     "Sem 1/ET4011/diagrams/diagram0001.svg",
     "Sem 1/CS4221/diagrams/diagram0007.svg",
@@ -211,7 +212,6 @@
     "Sem 1/CS4221/diagrams/diagram0005.svg",
     "Sem 1/CS4012/diagrams/diagram0003.svg",
     "Sem 1/CS4221/diagrams/diagram0004.svg",
-    "Sem 1/CS4012/diagrams/diagram0002.svg",
-    "Sem 1/ET4011/diagrams"
+    "Sem 1/CS4012/diagrams/diagram0002.svg"
   ]
 }
