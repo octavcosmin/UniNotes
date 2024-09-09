@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 3/CE4703/CE4703 Grading.md",
+                "file": "Sem 3/ET4132/1. Introduction to Creating Web Pages.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 3/CE4703/CE4703 Grading.md",
+                "file": "Sem 3/ET4132/1. Introduction to Creating Web Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 3/CE4703/CE4703 Grading.md",
+                "file": "Sem 3/ET4132/1. Introduction to Creating Web Pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 3/CE4703/CE4703 Grading.md"
+                "file": "Sem 3/ET4132/1. Introduction to Creating Web Pages.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "dfb8bbb4667df545",
   "lastOpenFiles": [
-    "Sem 2/CS4043/CS4043 Grading.md",
+    "Sem 3/ET4132/ET4132 Grading.md",
+    "Sem 3/ET4132/1. Introduction to Creating Web Pages.md",
     "Sem 3/CE4703/CE4703 Grading.md",
+    "Sem 3/ET4132",
+    "Sem 2/CS4043/CS4043 Grading.md",
     "Untitled.md",
     "Sem 3/CE4703",
     "Sem 3",
@@ -196,15 +199,12 @@
     "Sem 2/CS4182/3. Storing Variables.md",
     "Sem 2/CS4182/CS4182 grading.md",
     "Sem 2/MA4402/TUT 7.md",
-    "Sem 2/MA4402/2. Matrices.md",
-    "Sem 2/MA4402/3. Vectors.md",
     "Sem 2/CS4043",
     "Sem 2/CS4222",
     "Sem 2/MA4402",
     "Sem 2/ET4162",
     "Sem 1",
     "Sem 2/CS4182",
-    "Sem 2",
     "Sem 1/ET4011/diagrams/diagram0002.svg",
     "Sem 1/ET4011/diagrams/diagram0001.svg",
     "Sem 1/CS4221/diagrams/diagram0007.svg",

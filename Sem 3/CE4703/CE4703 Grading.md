@@ -22,11 +22,15 @@ Grading scheme
 | Marks | 85  | 80  | 75  | 70  | 65  | 60  | 55  | 45  | 35  | 25  | <25 |
 
 ## Programming Environment
-
+---
 -  **OS**: Windows 10/11
 - **Compiler/IDE**: Microsoft Visual Studio Community
 - **Additional Software Tools**:
 	- Doxygen: Documentation generator
 
+## Aims & Objectives
+---
+- Introduction to **C**
+- User-defined data types
 
 
