@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 3/ET4132/2. Introduction to HTML.md",
+                "file": "Sem 3/ET4132/3. HTML Hyperlinks.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sem 3/ET4132/2. Introduction to HTML.md",
+                "file": "Sem 3/ET4132/3. HTML Hyperlinks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sem 3/ET4132/2. Introduction to HTML.md",
+                "file": "Sem 3/ET4132/3. HTML Hyperlinks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem 3/ET4132/2. Introduction to HTML.md"
+                "file": "Sem 3/ET4132/3. HTML Hyperlinks.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "dfb8bbb4667df545",
   "lastOpenFiles": [
-    "Sem 3/ET4132/1. Introduction to Creating Web Pages.md",
     "Sem 3/ET4132/2. Introduction to HTML.md",
+    "Sem 3/ET4132/3. HTML Hyperlinks.md",
+    "Sem 3/ET4132/1. Introduction to Creating Web Pages.md",
     "Sem 3/ET4132/ET4132 Grading.md",
     "Sem 3/CE4703/CE4703 Grading.md",
     "Sem 3/ET4132",
@@ -198,7 +199,6 @@
     "Sem 2/CS4182/TUT10.md",
     "Sem 2/CS4182/HW5.md",
     "Sem 2/CS4182/3. Storing Variables.md",
-    "Sem 2/CS4182/CS4182 grading.md",
     "Sem 2/CS4043",
     "Sem 2/CS4222",
     "Sem 2/MA4402",
