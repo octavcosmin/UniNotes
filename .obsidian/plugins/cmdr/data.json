@@ -25,10 +25,6 @@
           "commandId": "obsidian-git:commit"
         },
         {
-          "action": 1,
-          "delay": "3000"
-        },
-        {
           "action": 0,
           "commandId": "obsidian-git:push2"
         }
