@@ -11,14 +11,12 @@
             "id": "3d77abbe841e014f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Sem 4/ET4334/Introduction to Cloud Computing.md",
-                "mode": "source",
-                "source": false
+                "file": "src/Pasted image 20250217114508.png"
               },
-              "icon": "lucide-file",
-              "title": "Introduction to Cloud Computing"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250217114508"
             }
           }
         ]
@@ -67,7 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,8 +186,17 @@
   },
   "active": "3d77abbe841e014f",
   "lastOpenFiles": [
-    "Sem 3/CE4703/8. Dynamic Data Structures.md",
+    "src/Pasted image 20250217114623.png",
+    "src/Pasted image 20250217114604.png",
+    "Sem 4/ET4014/Security Services.md",
+    "src/Pasted image 20250217114508.png",
+    "Sem 4/src/001.png.png",
+    "Sem 4/src/002.png.png",
+    "src/Pasted image 20230921090328.png",
+    "Sem 4/src",
     "Sem 4/ET4334/Introduction to Cloud Computing.md",
+    "Sem 4/ET4014",
+    "Sem 3/CE4703/8. Dynamic Data Structures.md",
     "Sem 4/ET4334",
     "Sem 4",
     "Sem 3/CE4703/7. Systematic Program Construction in 7 steps.md",
@@ -218,20 +226,10 @@
     "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 2/ET4162/4. CPU Design.md",
     "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
-    "Sem 2/ET4162/1. Introduction to Networking and the Internet.md",
-    "Sem 2/MA4402/1. Graph Theory.md",
     "Sem 2/ET4162/diagrams/diagram001.svg",
     "Sem 2/ET4162/Untitled Diagram.svg",
     "Sem 2/ET4162/diagrams",
-    "Sem 2/CS4043",
-    "Sem 2/CS4222",
     "Sem 1/ET4011/diagrams/diagram0002.svg",
-    "Sem 1/ET4011/diagrams/diagram0001.svg",
-    "Sem 1/CS4221/diagrams/diagram0007.svg",
-    "Sem 1/CS4221/diagrams/diagram0006.svg",
-    "Sem 1/CS4221/diagrams/diagram0005.svg",
-    "Sem 1/CS4012/diagrams/diagram0003.svg",
-    "Sem 1/CS4221/diagrams/diagram0004.svg",
-    "Sem 1/CS4012/diagrams/diagram0002.svg"
+    "Sem 1/ET4011/diagrams/diagram0001.svg"
   ]
 }
