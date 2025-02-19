@@ -11,12 +11,14 @@
             "id": "3d77abbe841e014f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "src/Pasted image 20250217114508.png"
+                "file": "Sem 4/ET4014/Key Management.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250217114508"
+              "icon": "lucide-file",
+              "title": "Key Management"
             }
           }
         ]
@@ -186,15 +188,16 @@
   },
   "active": "3d77abbe841e014f",
   "lastOpenFiles": [
+    "Sem 4/ET4014/Security Services.md",
+    "Sem 4/ET4014/Key Management.md",
+    "Sem 4/ET4334/Introduction to Cloud Computing.md",
+    "src/Pasted image 20250217114508.png",
     "src/Pasted image 20250217114623.png",
     "src/Pasted image 20250217114604.png",
-    "Sem 4/ET4014/Security Services.md",
-    "src/Pasted image 20250217114508.png",
     "Sem 4/src/001.png.png",
     "Sem 4/src/002.png.png",
     "src/Pasted image 20230921090328.png",
     "Sem 4/src",
-    "Sem 4/ET4334/Introduction to Cloud Computing.md",
     "Sem 4/ET4014",
     "Sem 3/CE4703/8. Dynamic Data Structures.md",
     "Sem 4/ET4334",
