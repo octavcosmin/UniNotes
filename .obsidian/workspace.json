@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 4/ET4014/Key Management.md",
+                "file": "Sem 4/ET4014/Digital Signatures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key Management"
+              "title": "Digital Signatures"
             }
           }
         ]
@@ -189,6 +189,7 @@
   "active": "3d77abbe841e014f",
   "lastOpenFiles": [
     "Sem 4/ET4014/Security Services.md",
+    "Sem 4/ET4014/Digital Signatures.md",
     "Sem 4/ET4014/Key Management.md",
     "Sem 4/ET4334/Introduction to Cloud Computing.md",
     "src/Pasted image 20250217114508.png",
@@ -228,7 +229,6 @@
     "Sem 2/CS4222/Hackathon Prep.md",
     "Sem 2/CS4222/CS4222 Grading.md",
     "Sem 2/ET4162/4. CPU Design.md",
-    "Sem 2/ET4162/3. CPU Performance and Efficiency.md",
     "Sem 2/ET4162/diagrams/diagram001.svg",
     "Sem 2/ET4162/Untitled Diagram.svg",
     "Sem 2/ET4162/diagrams",
