@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem 5/ET4437/Grading.md",
+                "file": "Sem 5/ET4437/ET4437 Grading.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grading"
+              "title": "ET4437 Grading"
             }
           }
         ]
@@ -186,10 +186,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19e99b97d7c0ec20",
+  "active": "a5406b47127e34e5",
   "lastOpenFiles": [
     "Sem 3/CE4703/CE4703 Grading.md",
-    "Sem 5/ET4437/Grading.md",
+    "Sem 5/ET4437/ET4437 Grading.md",
     "Sem 4/ET4014/SSL.md",
     "Sem 5/ET4437",
     "Sem 5",
